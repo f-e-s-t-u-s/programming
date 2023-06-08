@@ -10,3 +10,4 @@ for(let i = 0; i<numbers.length; i++){
 }
 console.log(result);
 console.log(numbers);
+// commented
